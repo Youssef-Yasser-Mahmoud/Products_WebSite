@@ -24,9 +24,9 @@ export default {
       });
     },
 
-    getFiveProducts() {
+    getSixProducts() {
       axios.get('http://localhost:3000/products').then((res) => {
-        res.data.length = 5;
+        res.data.length = 6;
         this.fiveProducts = res.data;
       });
     },
@@ -48,7 +48,7 @@ export default {
     addProduct() {
       axios
         .post('http://localhost:3000/products', {
-          id: this.nextId,
+          // id: this.nextId,
           title: this.title,
           description: this.description,
           price: parseFloat(this.price),
@@ -58,14 +58,14 @@ export default {
           this.description = '';
           this.price = '';
 
-          this.nextId++;
+          // this.nextId++;
 
           this.getAllProducts();
         });
     },
   },
 
-  // mounted() {
-  //   this.getAllProducts();
-  // },
+  mounted() {
+    this.getAllProducts();
+  },
 };

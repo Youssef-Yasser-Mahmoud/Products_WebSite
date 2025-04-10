@@ -53,7 +53,7 @@ export default {
     return {};
   },
   mounted() {
-    this.getFiveProducts();
+    this.getSixProducts();
   },
 };
 </script>

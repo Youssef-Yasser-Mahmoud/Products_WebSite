@@ -11,6 +11,7 @@
           <th style="width: 10%">Price</th>
           <th style="width: 15%">Image</th>
           <th style="width: 10%">Action</th>
+          <th style="width: 10%">Action</th>
         </tr>
       </thead>
       <tbody>
@@ -21,6 +22,9 @@
           <td>${{ product.price }}</td>
           <td>
             <img :src="product.images" alt="image" class="img-fluid rounded" style="max-height: 50px" />
+          </td>
+          <td>
+            <router-link :to='`/products/${product.id}`' class="btn btn-warning btn-sm">View Details</router-link>
           </td>
           <td>
             <button class="btn btn-danger btn-sm" @click="deleteProduct(product.id)">Delete</button>

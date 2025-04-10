@@ -26,7 +26,8 @@ export default {
   name: 'SingleProduct',
   mixins: [CRUD_Operations],
   mounted() {
-    this.getProduct(this.$route.params.id);
+    const id = this.$route.params.id;
+    this.getProduct(id);
   },
 };
 </script>
