@@ -5,6 +5,7 @@ const Home = () => import('./components/Home.vue');
 const Products = () => import('./components/Products.vue');
 const About = () => import('./components/About.vue');
 const newProduct = () => import('./components/newProduct.vue');
+const ErrorPage = () => import('./components/ErrorPage.vue');
 
 const routes = [
   {
@@ -26,6 +27,14 @@ const routes = [
     path: '/addProduct',
     name: 'newProduct',
     component: newProduct,
+  },
+  {
+    path: '/:pathMatch(.*)*',
+    name: 'ErrorPage',
+    component: ErrorPage,
+    meta: {
+      hideNavBar: true
+    }
   },
 ];
 

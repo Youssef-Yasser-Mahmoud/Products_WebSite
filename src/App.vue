@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark" v-show="!$route.meta.hideNavBar">
     <div class="container-fluid">
       <router-link class="navbar-brand" to="/">Product Shop</router-link>
       <button
