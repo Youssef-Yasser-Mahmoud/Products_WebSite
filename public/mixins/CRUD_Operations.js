@@ -48,17 +48,23 @@ export default {
     addProduct() {
       axios
         .post('http://localhost:3000/products', {
-          // id: this.nextId,
           title: this.title,
           description: this.description,
           price: parseFloat(this.price),
+          weight: this.weight,
+          warrantyInformation: this.warrantyPeriod,
+          images: 'https://via.placeholder.com/150',
+          availabilityStatus: 'In Stock',
+          discountPercentage: 10,
+          shippingInformation: 'Free shipping within 3-5 days',
+          rating: 4
         })
         .then((res) => {
           this.title = '';
           this.description = '';
           this.price = '';
-
-          // this.nextId++;
+          this.weight = '';
+          this.warrantyPeriod = '';
 
           this.getAllProducts();
         });

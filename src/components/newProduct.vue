@@ -38,6 +38,30 @@
         />
       </div>
 
+      <div class="col-md-6">
+        <label for="validationDefault02" class="form-label"><strong>Warranty Period</strong></label>
+        <input
+          type="number"
+          v-model="warrantyPeriod"
+          class="form-control"
+          id="validationDefault02"
+          placeholder="1 year"
+          required
+        />
+      </div>
+
+      <div class="col-md-6">
+        <label for="validationDefault02" class="form-label"><strong>Weight in grams</strong></label>
+        <input
+          type="number"
+          v-model="weight"
+          class="form-control"
+          id="validationDefault02"
+          placeholder="5"
+          required
+        />
+      </div>
+
       <div class="col-12">
         <button class="btn btn-primary w-100" type="submit">Add Product</button>
       </div>
@@ -54,7 +78,9 @@ export default {
     return {
       title: '',
       description: '',
-      price: ''
+      price: '',
+      weight: '',
+      warrantyPeriod: '',
     };
   },
 };

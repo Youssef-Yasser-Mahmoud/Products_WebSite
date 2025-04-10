@@ -1438,12 +1438,6 @@
         "https://cdn.dummyjson.com/products/images/groceries/Green%20Chili%20Pepper/1.png"
       ],
       "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Green%20Chili%20Pepper/thumbnail.png"
-    },
-    {
-      "id": "a10c",
-      "title": "title1",
-      "description": "desc1",
-      "price": 1
     }
   ],
   "total": 194,
