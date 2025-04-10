@@ -15,9 +15,10 @@
             <img :src="product.images" class="card-img-top" alt="Product Image" />
             <div class="card-body">
               <h5 class="card-title">{{ product.title }}</h5>
-              <p class="card-text">{{ product.description }}</p>
               <p class="text-success">$ {{ product.price }}</p>
-              <router-link :to="'/products/' + product.id" class="btn btn-primary">View Details</router-link>
+              <router-link :to="'/products/' + product.id" class="btn btn-primary" @click="getProduct(product.id)"
+                >View Details</router-link
+              >
             </div>
           </div>
         </div>

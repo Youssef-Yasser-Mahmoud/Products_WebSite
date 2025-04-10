@@ -3,6 +3,7 @@ import { createRouter, createWebHistory } from 'vue-router';
 // for Lazy Loading
 const Home = () => import('./components/Home.vue');
 const Products = () => import('./components/Products.vue');
+const SingleProduct = () => import('./components/SingleProduct.vue');
 const About = () => import('./components/About.vue');
 const newProduct = () => import('./components/newProduct.vue');
 const ErrorPage = () => import('./components/ErrorPage.vue');
@@ -17,6 +18,11 @@ const routes = [
     path: '/products',
     name: 'Products',
     component: Products,
+  },
+  {
+    path: '/products/:id',
+    name: 'SingleProduct',
+    component: SingleProduct,
   },
   {
     path: '/about',

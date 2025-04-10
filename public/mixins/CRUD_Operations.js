@@ -9,6 +9,8 @@ export default {
       description: '',
       price: '',
       nextId: 1,
+      product: {},
+      id: '',
     };
   },
   methods: {
@@ -33,6 +35,16 @@ export default {
       axios.delete(`http://localhost:3000/products/${id}`).then(() => this.getAllProducts());
     },
 
+    getId() {
+      this.id = this.$route.params.id;
+    },
+
+    getProduct(id) {
+      axios.get(`http://localhost:3000/products/${id}`).then((res) => {
+        this.product = res.data;
+      });
+    },
+
     addProduct() {
       axios
         .post('http://localhost:3000/products', {
@@ -49,11 +61,11 @@ export default {
           this.nextId++;
 
           this.getAllProducts();
-        })
+        });
     },
   },
 
-  mounted() {
-    this.getAllProducts();
-  },
+  // mounted() {
+  //   this.getAllProducts();
+  // },
 };
