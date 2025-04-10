@@ -9,11 +9,18 @@
       "discountPercentage": 7.17,
       "rating": 4.94,
       "stock": 5,
-      "tags": ["beauty", "mascara"],
+      "tags": [
+        "beauty",
+        "mascara"
+      ],
       "brand": "Essence",
       "sku": "RCH45Q1A",
       "weight": 2,
-      "dimensions": { "width": 23.17, "height": 14.43, "depth": 28.01 },
+      "dimensions": {
+        "width": 23.17,
+        "height": 14.43,
+        "depth": 28.01
+      },
       "warrantyInformation": "1 month warranty",
       "shippingInformation": "Ships in 1 month",
       "availabilityStatus": "Low Stock",
@@ -48,7 +55,9 @@
         "barcode": "9164035109868",
         "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png"],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png"
+      ],
       "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png"
     },
     {
@@ -60,11 +69,18 @@
       "discountPercentage": 5.5,
       "rating": 3.28,
       "stock": 44,
-      "tags": ["beauty", "eyeshadow"],
+      "tags": [
+        "beauty",
+        "eyeshadow"
+      ],
       "brand": "Glamour Beauty",
       "sku": "MVCFH27F",
       "weight": 3,
-      "dimensions": { "width": 12.42, "height": 8.63, "depth": 29.13 },
+      "dimensions": {
+        "width": 12.42,
+        "height": 8.63,
+        "depth": 29.13
+      },
       "warrantyInformation": "1 year warranty",
       "shippingInformation": "Ships in 2 weeks",
       "availabilityStatus": "In Stock",
@@ -99,7 +115,9 @@
         "barcode": "2817839095220",
         "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/1.png"],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/1.png"
+      ],
       "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/thumbnail.png"
     },
     {
@@ -111,11 +129,18 @@
       "discountPercentage": 18.14,
       "rating": 3.82,
       "stock": 59,
-      "tags": ["beauty", "face powder"],
+      "tags": [
+        "beauty",
+        "face powder"
+      ],
       "brand": "Velvet Touch",
       "sku": "9EN8WLT2",
       "weight": 8,
-      "dimensions": { "width": 24.16, "height": 10.7, "depth": 11.07 },
+      "dimensions": {
+        "width": 24.16,
+        "height": 10.7,
+        "depth": 11.07
+      },
       "warrantyInformation": "2 year warranty",
       "shippingInformation": "Ships in 1-2 business days",
       "availabilityStatus": "In Stock",
@@ -150,7 +175,9 @@
         "barcode": "0516267971277",
         "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/1.png"],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/1.png"
+      ],
       "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/thumbnail.png"
     },
     {
@@ -162,11 +189,18 @@
       "discountPercentage": 19.03,
       "rating": 2.51,
       "stock": 68,
-      "tags": ["beauty", "lipstick"],
+      "tags": [
+        "beauty",
+        "lipstick"
+      ],
       "brand": "Chic Cosmetics",
       "sku": "O5IF1NTA",
       "weight": 5,
-      "dimensions": { "width": 14.37, "height": 13.94, "depth": 14.6 },
+      "dimensions": {
+        "width": 14.37,
+        "height": 13.94,
+        "depth": 14.6
+      },
       "warrantyInformation": "Lifetime warranty",
       "shippingInformation": "Ships in 2 weeks",
       "availabilityStatus": "In Stock",
@@ -201,7 +235,9 @@
         "barcode": "9444582199406",
         "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/1.png"],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/1.png"
+      ],
       "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/thumbnail.png"
     },
     {
@@ -213,11 +249,18 @@
       "discountPercentage": 2.46,
       "rating": 3.91,
       "stock": 71,
-      "tags": ["beauty", "nail polish"],
+      "tags": [
+        "beauty",
+        "nail polish"
+      ],
       "brand": "Nail Couture",
       "sku": "YUIIIP4W",
       "weight": 9,
-      "dimensions": { "width": 8.11, "height": 10.89, "depth": 29.06 },
+      "dimensions": {
+        "width": 8.11,
+        "height": 10.89,
+        "depth": 29.06
+      },
       "warrantyInformation": "1 year warranty",
       "shippingInformation": "Ships in 1 week",
       "availabilityStatus": "In Stock",
@@ -252,7 +295,9 @@
         "barcode": "3212847902461",
         "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/1.png"],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/1.png"
+      ],
       "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/thumbnail.png"
     },
     {
@@ -264,11 +309,18 @@
       "discountPercentage": 0.32,
       "rating": 4.85,
       "stock": 17,
-      "tags": ["fragrances", "perfumes"],
+      "tags": [
+        "fragrances",
+        "perfumes"
+      ],
       "brand": "Calvin Klein",
       "sku": "DZM2JQZE",
       "weight": 5,
-      "dimensions": { "width": 11.53, "height": 14.44, "depth": 6.81 },
+      "dimensions": {
+        "width": 11.53,
+        "height": 14.44,
+        "depth": 6.81
+      },
       "warrantyInformation": "5 year warranty",
       "shippingInformation": "Ships overnight",
       "availabilityStatus": "In Stock",
@@ -319,11 +371,18 @@
       "discountPercentage": 18.64,
       "rating": 2.76,
       "stock": 41,
-      "tags": ["fragrances", "perfumes"],
+      "tags": [
+        "fragrances",
+        "perfumes"
+      ],
       "brand": "Chanel",
       "sku": "K71HBCGS",
       "weight": 4,
-      "dimensions": { "width": 21.27, "height": 28, "depth": 11.89 },
+      "dimensions": {
+        "width": 21.27,
+        "height": 28,
+        "depth": 11.89
+      },
       "warrantyInformation": "1 week warranty",
       "shippingInformation": "Ships in 1 month",
       "availabilityStatus": "In Stock",
@@ -374,11 +433,18 @@
       "discountPercentage": 17.44,
       "rating": 3.31,
       "stock": 91,
-      "tags": ["fragrances", "perfumes"],
+      "tags": [
+        "fragrances",
+        "perfumes"
+      ],
       "brand": "Dior",
       "sku": "E70NB03B",
       "weight": 10,
-      "dimensions": { "width": 21.51, "height": 7, "depth": 26.51 },
+      "dimensions": {
+        "width": 21.51,
+        "height": 7,
+        "depth": 26.51
+      },
       "warrantyInformation": "Lifetime warranty",
       "shippingInformation": "Ships in 2 weeks",
       "availabilityStatus": "In Stock",
@@ -429,11 +495,18 @@
       "discountPercentage": 11.47,
       "rating": 2.68,
       "stock": 3,
-      "tags": ["fragrances", "perfumes"],
+      "tags": [
+        "fragrances",
+        "perfumes"
+      ],
       "brand": "Dolce & Gabbana",
       "sku": "1NBFK980",
       "weight": 5,
-      "dimensions": { "width": 17, "height": 24.57, "depth": 13.3 },
+      "dimensions": {
+        "width": 17,
+        "height": 24.57,
+        "depth": 13.3
+      },
       "warrantyInformation": "5 year warranty",
       "shippingInformation": "Ships in 1-2 business days",
       "availabilityStatus": "Low Stock",
@@ -484,11 +557,18 @@
       "discountPercentage": 8.9,
       "rating": 2.69,
       "stock": 93,
-      "tags": ["fragrances", "perfumes"],
+      "tags": [
+        "fragrances",
+        "perfumes"
+      ],
       "brand": "Gucci",
       "sku": "FFKZ6HOF",
       "weight": 10,
-      "dimensions": { "width": 22.28, "height": 17.81, "depth": 27.18 },
+      "dimensions": {
+        "width": 22.28,
+        "height": 17.81,
+        "depth": 27.18
+      },
       "warrantyInformation": "No warranty",
       "shippingInformation": "Ships in 2 weeks",
       "availabilityStatus": "In Stock",
@@ -539,11 +619,18 @@
       "discountPercentage": 0.29,
       "rating": 4.14,
       "stock": 47,
-      "tags": ["furniture", "beds"],
+      "tags": [
+        "furniture",
+        "beds"
+      ],
       "brand": "Annibale Colombo",
       "sku": "4KMDTZWF",
       "weight": 3,
-      "dimensions": { "width": 28.75, "height": 26.88, "depth": 24.47 },
+      "dimensions": {
+        "width": 28.75,
+        "height": 26.88,
+        "depth": 24.47
+      },
       "warrantyInformation": "2 year warranty",
       "shippingInformation": "Ships overnight",
       "availabilityStatus": "In Stock",
@@ -594,11 +681,18 @@
       "discountPercentage": 18.54,
       "rating": 3.08,
       "stock": 16,
-      "tags": ["furniture", "sofas"],
+      "tags": [
+        "furniture",
+        "sofas"
+      ],
       "brand": "Annibale Colombo",
       "sku": "LUU95CQP",
       "weight": 3,
-      "dimensions": { "width": 20.97, "height": 19.11, "depth": 25.81 },
+      "dimensions": {
+        "width": 20.97,
+        "height": 19.11,
+        "depth": 25.81
+      },
       "warrantyInformation": "1 month warranty",
       "shippingInformation": "Ships overnight",
       "availabilityStatus": "In Stock",
@@ -649,11 +743,18 @@
       "discountPercentage": 9.58,
       "rating": 4.48,
       "stock": 16,
-      "tags": ["furniture", "bedside tables"],
+      "tags": [
+        "furniture",
+        "bedside tables"
+      ],
       "brand": "Furniture Co.",
       "sku": "OWPLTZYX",
       "weight": 10,
-      "dimensions": { "width": 25.43, "height": 20.2, "depth": 24.95 },
+      "dimensions": {
+        "width": 25.43,
+        "height": 20.2,
+        "depth": 24.95
+      },
       "warrantyInformation": "6 months warranty",
       "shippingInformation": "Ships in 1-2 business days",
       "availabilityStatus": "In Stock",
@@ -704,11 +805,18 @@
       "discountPercentage": 15.23,
       "rating": 4.11,
       "stock": 47,
-      "tags": ["furniture", "office chairs"],
+      "tags": [
+        "furniture",
+        "office chairs"
+      ],
       "brand": "Knoll",
       "sku": "RKHVJ4FE",
       "weight": 3,
-      "dimensions": { "width": 16.59, "height": 21.46, "depth": 29.07 },
+      "dimensions": {
+        "width": 16.59,
+        "height": 21.46,
+        "depth": 29.07
+      },
       "warrantyInformation": "Lifetime warranty",
       "shippingInformation": "Ships in 3-5 business days",
       "availabilityStatus": "In Stock",
@@ -759,11 +867,18 @@
       "discountPercentage": 11.22,
       "rating": 3.26,
       "stock": 95,
-      "tags": ["furniture", "bathroom"],
+      "tags": [
+        "furniture",
+        "bathroom"
+      ],
       "brand": "Bath Trends",
       "sku": "7OLTIEVO",
       "weight": 6,
-      "dimensions": { "width": 7.32, "height": 22.64, "depth": 12.37 },
+      "dimensions": {
+        "width": 7.32,
+        "height": 22.64,
+        "depth": 12.37
+      },
       "warrantyInformation": "6 months warranty",
       "shippingInformation": "Ships in 3-5 business days",
       "availabilityStatus": "In Stock",
@@ -814,10 +929,16 @@
       "discountPercentage": 1.97,
       "rating": 2.96,
       "stock": 9,
-      "tags": ["fruits"],
+      "tags": [
+        "fruits"
+      ],
       "sku": "QTROUV79",
       "weight": 8,
-      "dimensions": { "width": 8.29, "height": 5.58, "depth": 12.41 },
+      "dimensions": {
+        "width": 8.29,
+        "height": 5.58,
+        "depth": 12.41
+      },
       "warrantyInformation": "2 year warranty",
       "shippingInformation": "Ships in 2 weeks",
       "availabilityStatus": "In Stock",
@@ -852,7 +973,9 @@
         "barcode": "2517819903837",
         "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://cdn.dummyjson.com/products/images/groceries/Apple/1.png"],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Apple/1.png"
+      ],
       "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Apple/thumbnail.png"
     },
     {
@@ -864,10 +987,16 @@
       "discountPercentage": 17.99,
       "rating": 2.83,
       "stock": 96,
-      "tags": ["meat"],
+      "tags": [
+        "meat"
+      ],
       "sku": "BWWA2MSO",
       "weight": 9,
-      "dimensions": { "width": 23.35, "height": 13.48, "depth": 26.4 },
+      "dimensions": {
+        "width": 23.35,
+        "height": 13.48,
+        "depth": 26.4
+      },
       "warrantyInformation": "1 month warranty",
       "shippingInformation": "Ships overnight",
       "availabilityStatus": "In Stock",
@@ -902,7 +1031,9 @@
         "barcode": "8335515097879",
         "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://cdn.dummyjson.com/products/images/groceries/Beef%20Steak/1.png"],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Beef%20Steak/1.png"
+      ],
       "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Beef%20Steak/thumbnail.png"
     },
     {
@@ -914,10 +1045,17 @@
       "discountPercentage": 9.57,
       "rating": 2.88,
       "stock": 13,
-      "tags": ["pet supplies", "cat food"],
+      "tags": [
+        "pet supplies",
+        "cat food"
+      ],
       "sku": "C3F8QN6O",
       "weight": 9,
-      "dimensions": { "width": 15.4, "height": 13.97, "depth": 25.13 },
+      "dimensions": {
+        "width": 15.4,
+        "height": 13.97,
+        "depth": 25.13
+      },
       "warrantyInformation": "3 months warranty",
       "shippingInformation": "Ships in 1-2 business days",
       "availabilityStatus": "In Stock",
@@ -952,7 +1090,9 @@
         "barcode": "5503491330693",
         "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/1.png"],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/1.png"
+      ],
       "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/thumbnail.png"
     },
     {
@@ -964,10 +1104,16 @@
       "discountPercentage": 10.46,
       "rating": 4.61,
       "stock": 69,
-      "tags": ["meat"],
+      "tags": [
+        "meat"
+      ],
       "sku": "G5YEHW7B",
       "weight": 7,
-      "dimensions": { "width": 15.96, "height": 29.24, "depth": 26.25 },
+      "dimensions": {
+        "width": 15.96,
+        "height": 29.24,
+        "depth": 26.25
+      },
       "warrantyInformation": "Lifetime warranty",
       "shippingInformation": "Ships in 1 month",
       "availabilityStatus": "In Stock",
@@ -1017,10 +1163,16 @@
       "discountPercentage": 18.89,
       "rating": 4.01,
       "stock": 22,
-      "tags": ["cooking essentials"],
+      "tags": [
+        "cooking essentials"
+      ],
       "sku": "Q6ZP1UY8",
       "weight": 8,
-      "dimensions": { "width": 8.18, "height": 27.45, "depth": 27.88 },
+      "dimensions": {
+        "width": 8.18,
+        "height": 27.45,
+        "depth": 27.88
+      },
       "warrantyInformation": "Lifetime warranty",
       "shippingInformation": "Ships in 1 month",
       "availabilityStatus": "In Stock",
@@ -1055,7 +1207,9 @@
         "barcode": "6707669443381",
         "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/1.png"],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/1.png"
+      ],
       "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/thumbnail.png"
     },
     {
@@ -1067,10 +1221,16 @@
       "discountPercentage": 11.44,
       "rating": 4.71,
       "stock": 22,
-      "tags": ["vegetables"],
+      "tags": [
+        "vegetables"
+      ],
       "sku": "6KGF2K6Z",
       "weight": 9,
-      "dimensions": { "width": 11.04, "height": 20.5, "depth": 8.18 },
+      "dimensions": {
+        "width": 11.04,
+        "height": 20.5,
+        "depth": 8.18
+      },
       "warrantyInformation": "5 year warranty",
       "shippingInformation": "Ships overnight",
       "availabilityStatus": "In Stock",
@@ -1105,7 +1265,9 @@
         "barcode": "2597004869708",
         "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://cdn.dummyjson.com/products/images/groceries/Cucumber/1.png"],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Cucumber/1.png"
+      ],
       "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cucumber/thumbnail.png"
     },
     {
@@ -1117,10 +1279,17 @@
       "discountPercentage": 18.15,
       "rating": 2.74,
       "stock": 40,
-      "tags": ["pet supplies", "dog food"],
+      "tags": [
+        "pet supplies",
+        "dog food"
+      ],
       "sku": "A6QRCH37",
       "weight": 2,
-      "dimensions": { "width": 29.39, "height": 29.77, "depth": 20.54 },
+      "dimensions": {
+        "width": 29.39,
+        "height": 29.77,
+        "depth": 20.54
+      },
       "warrantyInformation": "1 year warranty",
       "shippingInformation": "Ships in 1 month",
       "availabilityStatus": "In Stock",
@@ -1155,7 +1324,9 @@
         "barcode": "7957222289508",
         "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://cdn.dummyjson.com/products/images/groceries/Dog%20Food/1.png"],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Dog%20Food/1.png"
+      ],
       "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Dog%20Food/thumbnail.png"
     },
     {
@@ -1167,10 +1338,16 @@
       "discountPercentage": 5.8,
       "rating": 4.46,
       "stock": 10,
-      "tags": ["dairy"],
+      "tags": [
+        "dairy"
+      ],
       "sku": "YA617RI7",
       "weight": 4,
-      "dimensions": { "width": 12.3, "height": 10.99, "depth": 15.53 },
+      "dimensions": {
+        "width": 12.3,
+        "height": 10.99,
+        "depth": 15.53
+      },
       "warrantyInformation": "3 year warranty",
       "shippingInformation": "Ships overnight",
       "availabilityStatus": "In Stock",
@@ -1205,7 +1382,9 @@
         "barcode": "7095702028776",
         "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://cdn.dummyjson.com/products/images/groceries/Eggs/1.png"],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Eggs/1.png"
+      ],
       "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Eggs/thumbnail.png"
     },
     {
@@ -1217,10 +1396,16 @@
       "discountPercentage": 7,
       "rating": 4.83,
       "stock": 99,
-      "tags": ["seafood"],
+      "tags": [
+        "seafood"
+      ],
       "sku": "XNIH1MTA",
       "weight": 8,
-      "dimensions": { "width": 20.14, "height": 8.4, "depth": 10.01 },
+      "dimensions": {
+        "width": 20.14,
+        "height": 8.4,
+        "depth": 10.01
+      },
       "warrantyInformation": "1 year warranty",
       "shippingInformation": "Ships in 1 month",
       "availabilityStatus": "In Stock",
@@ -1255,7 +1440,9 @@
         "barcode": "4250692197342",
         "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://cdn.dummyjson.com/products/images/groceries/Fish%20Steak/1.png"],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Fish%20Steak/1.png"
+      ],
       "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Fish%20Steak/thumbnail.png"
     },
     {
@@ -1267,10 +1454,16 @@
       "discountPercentage": 15.5,
       "rating": 4.28,
       "stock": 89,
-      "tags": ["vegetables"],
+      "tags": [
+        "vegetables"
+      ],
       "sku": "HU7S7VQ0",
       "weight": 7,
-      "dimensions": { "width": 7.32, "height": 14.31, "depth": 21.38 },
+      "dimensions": {
+        "width": 7.32,
+        "height": 14.31,
+        "depth": 21.38
+      },
       "warrantyInformation": "5 year warranty",
       "shippingInformation": "Ships overnight",
       "availabilityStatus": "In Stock",
@@ -1305,7 +1498,9 @@
         "barcode": "7583442707568",
         "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://cdn.dummyjson.com/products/images/groceries/Green%20Bell%20Pepper/1.png"],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Green%20Bell%20Pepper/1.png"
+      ],
       "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Green%20Bell%20Pepper/thumbnail.png"
     },
     {
@@ -1317,10 +1512,16 @@
       "discountPercentage": 18.51,
       "rating": 4.43,
       "stock": 8,
-      "tags": ["vegetables"],
+      "tags": [
+        "vegetables"
+      ],
       "sku": "Y4RM3JCB",
       "weight": 2,
-      "dimensions": { "width": 18.67, "height": 21.17, "depth": 25.26 },
+      "dimensions": {
+        "width": 18.67,
+        "height": 21.17,
+        "depth": 25.26
+      },
       "warrantyInformation": "No warranty",
       "shippingInformation": "Ships in 1-2 business days",
       "availabilityStatus": "In Stock",
@@ -1355,7 +1556,9 @@
         "barcode": "8400326844874",
         "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://cdn.dummyjson.com/products/images/groceries/Green%20Chili%20Pepper/1.png"],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Green%20Chili%20Pepper/1.png"
+      ],
       "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Green%20Chili%20Pepper/thumbnail.png"
     },
     {
@@ -1367,10 +1570,16 @@
       "discountPercentage": 1.91,
       "rating": 3.5,
       "stock": 25,
-      "tags": ["condiments"],
+      "tags": [
+        "condiments"
+      ],
       "sku": "BTBNIIOU",
       "weight": 9,
-      "dimensions": { "width": 26.53, "height": 27.11, "depth": 6.63 },
+      "dimensions": {
+        "width": 26.53,
+        "height": 27.11,
+        "depth": 6.63
+      },
       "warrantyInformation": "2 year warranty",
       "shippingInformation": "Ships overnight",
       "availabilityStatus": "In Stock",
@@ -1405,7 +1614,9 @@
         "barcode": "0668665656044",
         "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://cdn.dummyjson.com/products/images/groceries/Honey%20Jar/1.png"],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Honey%20Jar/1.png"
+      ],
       "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Honey%20Jar/thumbnail.png"
     },
     {
@@ -1417,10 +1628,16 @@
       "discountPercentage": 7.58,
       "rating": 3.77,
       "stock": 76,
-      "tags": ["desserts"],
+      "tags": [
+        "desserts"
+      ],
       "sku": "VEZMU1EQ",
       "weight": 5,
-      "dimensions": { "width": 17.66, "height": 24.49, "depth": 25.98 },
+      "dimensions": {
+        "width": 17.66,
+        "height": 24.49,
+        "depth": 25.98
+      },
       "warrantyInformation": "2 year warranty",
       "shippingInformation": "Ships in 2 weeks",
       "availabilityStatus": "In Stock",
@@ -1472,10 +1689,16 @@
       "discountPercentage": 5.45,
       "rating": 3.41,
       "stock": 99,
-      "tags": ["beverages"],
+      "tags": [
+        "beverages"
+      ],
       "sku": "M2K19S06",
       "weight": 2,
-      "dimensions": { "width": 8.97, "height": 12.26, "depth": 15.05 },
+      "dimensions": {
+        "width": 8.97,
+        "height": 12.26,
+        "depth": 15.05
+      },
       "warrantyInformation": "1 week warranty",
       "shippingInformation": "Ships in 1-2 business days",
       "availabilityStatus": "In Stock",
@@ -1510,7 +1733,9 @@
         "barcode": "8546824122355",
         "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://cdn.dummyjson.com/products/images/groceries/Juice/1.png"],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Juice/1.png"
+      ],
       "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Juice/thumbnail.png"
     },
     {
@@ -1522,10 +1747,16 @@
       "discountPercentage": 10.32,
       "rating": 4.37,
       "stock": 1,
-      "tags": ["fruits"],
+      "tags": [
+        "fruits"
+      ],
       "sku": "0X3NORB9",
       "weight": 8,
-      "dimensions": { "width": 27.3, "height": 7.48, "depth": 15.08 },
+      "dimensions": {
+        "width": 27.3,
+        "height": 7.48,
+        "depth": 15.08
+      },
       "warrantyInformation": "6 months warranty",
       "shippingInformation": "Ships in 3-5 business days",
       "availabilityStatus": "Low Stock",
@@ -1560,8 +1791,22 @@
         "barcode": "3325493172934",
         "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://cdn.dummyjson.com/products/images/groceries/Kiwi/1.png"],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Kiwi/1.png"
+      ],
       "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Kiwi/thumbnail.png"
+    },
+    {
+      "id": 31,
+      "title": "title1",
+      "description": "desc1",
+      "price": 10
+    },
+    {
+      "id": 32,
+      "title": "title2",
+      "description": "desc2",
+      "price": 40
     }
   ],
   "total": 194,
