@@ -3,7 +3,7 @@
     <h2 class="text-center mb-4">Add New Product</h2>
     <form class="row g-3" @submit.prevent="addProduct">
       <div class="col-md-6">
-        <label for="validationDefault01"  class="form-label"><strong>Title</strong></label>
+        <label for="validationDefault01" class="form-label"><strong>Title</strong></label>
         <input
           type="text"
           v-model="title"
@@ -28,14 +28,7 @@
 
       <div class="col-md-6">
         <label for="validationDefault02" class="form-label"><strong>Price</strong></label>
-        <input
-          type="number"
-          v-model="price"
-          class="form-control"
-          id="validationDefault02"
-          placeholder="$20"
-          required
-        />
+        <input type="number" v-model="price" class="form-control" id="validationDefault02" placeholder="$20" required />
       </div>
 
       <div class="col-md-6">
@@ -52,14 +45,7 @@
 
       <div class="col-md-6">
         <label for="validationDefault02" class="form-label"><strong>Weight in grams</strong></label>
-        <input
-          type="number"
-          v-model="weight"
-          class="form-control"
-          id="validationDefault02"
-          placeholder="5"
-          required
-        />
+        <input type="number" v-model="weight" class="form-control" id="validationDefault02" placeholder="5" required />
       </div>
 
       <div class="col-12">

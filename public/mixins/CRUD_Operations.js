@@ -18,9 +18,9 @@ export default {
       axios.get('http://localhost:3000/products').then((res) => {
         this.products = res.data;
 
-        if (this.products.length > 0) {
-          this.nextId = Math.max(...this.products.map((product) => product.id)) + 1;
-        }
+        // if (this.products.length > 0) {
+        //   this.nextId = Math.max(...this.products.map((product) => product.id)) + 1;
+        // }
       });
     },
 
@@ -57,7 +57,7 @@ export default {
           availabilityStatus: 'In Stock',
           discountPercentage: 10,
           shippingInformation: 'Free shipping within 3-5 days',
-          rating: 4
+          rating: 4,
         })
         .then((res) => {
           this.title = '';
