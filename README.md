@@ -43,6 +43,8 @@ npm run dev
 ```
 The app will be running at **http://localhost:5173** and will interact with the **`JSON server`** running at http://localhost:3000.
 
+---
+
 📌 Notes
 Products added through the UI are saved in db.json.
 
