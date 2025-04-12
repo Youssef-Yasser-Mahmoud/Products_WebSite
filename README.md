@@ -1,6 +1,6 @@
 # Vue CRUD Products App 🛍️
 
-A simple product management web app built with Vue.js ___**`(Options API)`**___ using **`mixins`** for reusable logic and **`Bootstrap`** for styling. The app includes features like **`adding`**, **`viewing`**, and **`deleting`** products, with data handled by a mock backend powered by **`JSON Server`**.
+A simple product management web app built with Vue.js _____**`(Options API)`**_____ using **`mixins`** for reusable logic and **`Bootstrap`** for styling. The app includes features like **`adding`**, **`viewing`**, and **`deleting`** products, with data handled by a mock backend powered by **`JSON Server`**.
 
 ## 🔧 Tech Stack
 
